@@ -1,0 +1,7 @@
+node_modules
+.env
+credentials.json
+token.json
+user-token.json
+dist
+.vscode
